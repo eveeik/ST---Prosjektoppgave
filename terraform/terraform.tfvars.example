@@ -1,0 +1,7 @@
+subscription_id = "YOUR-SUBSCRIPTION-ID"
+
+allowed_ssh_source_ip = "YOUR-IP/32"
+
+storage_account_name = "yourstorageaccount"
+
+ssh_public_key = "YOUR SSH PUBLIC KEY"
