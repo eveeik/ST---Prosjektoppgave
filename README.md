@@ -20,6 +20,4 @@ Terraform-løsningen er bygget modulbasert med egne moduler for:
 - Azure Database for MySQL
 - Network Security Groups
 - Ubuntu VM
-## Forfatter
-Even Eiklid  
-Fagskolen Innlandet – IT-drift og sikkerhet
+
